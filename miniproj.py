@@ -95,6 +95,8 @@ def Cesar(Pw: str) -> str: #Realiza a cifra de Ceasar em uma string
 
 def Pwgen() -> None: # Printa a senha escolhida pelo Deus na tela
     global Pw_list, Ndt, Phrases_list
+    if Pw_list == []:
+        Pw_list = ['Alfa0001!', 'Bismarck1730@', 'Corretor7768#', 'Destruidor1190%', 'ValueNotFound', 'Formacao1357*', 'Garfield9999?', 'Height8849$', 'Iguana0035$', 'Judith1773/', 'Komodo4949!', 'Sprache0001', 'Monumento4479/','Number1212*', 'Observatório1333&', 'Password0720?', 'Quilha0707!', 'Retaguarda8172#', 'Synonym9976!', 'Tucano9876.', 'Ultravioleta5701;', 'Valorizacao0076.','Wellington0000!', 'Xafarizcomx1019@', 'Yupiiiyy1111;', 'Zebracolorida9191#']
     EE2 = Easter_egg2()
     if EE2 == 1:
         return
