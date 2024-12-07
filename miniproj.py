@@ -75,7 +75,6 @@ def mole_code() -> None: # Função que converte e traduz código Mole
             print('Obrigado por usar o Conversor e Tradutor de Código Mole!')
             break
     return
-#Height, Iguana Language
 if True: #NÃO ABRIR, ARMAZÉM DE SENHAS
     Ndt = 0
     Pw_list = ['Alfa0001!', 'Bismarck1730@', 'Corretor7768#', 'Destruidor1190%', 'ValueNotFound', 'Formacao1357*', 'Garfield9999?', 'Height7736$', 'Iguana1910$', 'Judith1773/', 'Komodo4949!', 'Sprache0001', 'Monumento4479/','Number1212*', 'Observatório1333&', 'Password0720?', 'Quilha0707!', 'Retaguarda8172#', 'Synonym9976!', 'Tucano9876.', 'Ultravioleta5701;', 'Valorizacao0076.','Wellington0000!', 'Xafarizcomx1019@', 'Yupiiiyy1111;', 'Zebracolorida9191#']
