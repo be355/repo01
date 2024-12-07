@@ -17,26 +17,22 @@ O Deus então mostra a senha ao usuário e pergunta a ele se gostaria de trocar.
 Parece que alguém mexeu no código que escrevi e mudou algumas coisas... Será que você consegue descobrir o segredo deste código??
 Toda a informação que precisa será fornecida pelo código, exceto por uma (Seu trabalho descobrir qual informação falta).
 A única dica que lhe dou é não reiniciar o código. Boa sorte!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Spoilers daqui pra frente
+Spoilers daqui pra frente
+Spoilers daqui pra frente
+Spoilers daqui pra frente
+Spoilers daqui pra frente
+Spoilers daqui pra frente
+Spoilers daqui pra frente
+Spoilers daqui pra frente
+Spoilers daqui pra frente
+Spoilers daqui pra frente
+Spoilers daqui pra frente
+Spoilers daqui pra frente
+Spoilers daqui pra frente
+Spoilers daqui pra frente
+Spoilers daqui pra frente
+Spoilers daqui pra frente
 ### Easter eggs:
 Aqui explicarei como as funções "Easter_eggX" funcionam.
 A primeira função é onde realmente ocorre o Easter egg. Há uma senha faltando e seu trabalho é descobrir qual é, mas primeiro precisa corrigir as senhas que estão erradas. Essa função determina se a senha que você escreveu é uma versão correta ou a senha correta e age de acordo. A senha secreta só é liberada quando você conseguir descobrir as senhas que estão erradas. Senhas corrigidas: ['Language0001$','Iguana0035$','Height8849$']
